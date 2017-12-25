@@ -19,7 +19,7 @@ function show_customer_errors(isClear){
   }
   return code;
 }
-// test 25/12/2017 dev_02 edit ==> conflict
+
 function view_customerdetail(is_ajaxrender)
 {
   var function_name="view_customerdetail";
