@@ -20,6 +20,8 @@ function show_customer_errors(isClear){
   return code;
 }
 // test 25/12/2017
+
+//date 26/12/2017
 function view_customerdetail(is_ajaxrender)
 {
   var function_name="view_customerdetail";
