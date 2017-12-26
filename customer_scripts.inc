@@ -1,7 +1,6 @@
 
 <script language="javascript" type="text/javascript" runat="server">
 
-//
 // *** Customer ***
 //
 
@@ -19,7 +18,7 @@ function show_customer_errors(isClear){
   }
   return code;
 }
-
+//deit by dev_02
 function view_customerdetail(is_ajaxrender)
 {
   var function_name="view_customerdetail";
