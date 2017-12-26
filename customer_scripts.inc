@@ -3,7 +3,7 @@
 
 // *** Customer ***
 //
-
+//edit by dev_01
 function show_customer_errors(isClear){
   var code="",
   errors = String(Session("errors"));
