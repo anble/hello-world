@@ -3,8 +3,10 @@
 
 // *** Customer ***
 //
-//edit by dev_01
+=======
+//edit by dev_01 28/12/2017 === edit again 10:27AM
 // dev 02 also edit on the same place that edited by dev_01 ==> conflict happen
+//====================
 function show_customer_errors(isClear){
   var code="",
   errors = String(Session("errors"));
