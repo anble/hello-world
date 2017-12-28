@@ -1,5 +1,5 @@
 var order_detail_id;
-
+// dev 02 edit 28/12/2017 ==Edit second time 10:28AM
 $(function() {
 	var hostName = window.location.protocol + "//"+window.location.host+"/";
 
