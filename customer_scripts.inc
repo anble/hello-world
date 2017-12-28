@@ -3,7 +3,7 @@
 
 // *** Customer ***
 //
-//edit by dev_01 28/12/2017 
+//edit by dev_01 28/12/2017 === edit again 10:27AM
 //====================
 function show_customer_errors(isClear){
   var code="",
