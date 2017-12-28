@@ -4,6 +4,7 @@
 // *** Customer ***
 //
 //edit by dev_01
+// dev 02 also edit on the same place that edited by dev_01 ==> conflict happen
 function show_customer_errors(isClear){
   var code="",
   errors = String(Session("errors"));
