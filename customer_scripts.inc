@@ -4,6 +4,7 @@
 // *** Customer ***
 //
 //edit by dev_01 28/12/2017 === edit again 10:27AM
+// dev 01 and dev 01 edit on the same file : dev 01 first
 //====================
 function show_customer_errors(isClear){
   var code="",
